@@ -1,0 +1,1 @@
+This repository will hold notes on all the AZ-104 Microsoft Learn paths and modules. 
